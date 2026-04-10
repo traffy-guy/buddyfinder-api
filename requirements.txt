@@ -1,0 +1,8 @@
+replicate
+liveportrait
+elevenlabs
+synclabs
+google-generativeai
+requests
+opencv-python
+pillow
